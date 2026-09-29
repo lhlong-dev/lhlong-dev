@@ -1,11 +1,10 @@
-# Hi there, I'm Lê Hoàng Long 👋
+# Hi there, I'm KLMG
 
-IT Student at HUIT | Passionate about Software Development & Database Management
-
+An IT Student | Passionate about Software Development & Database Management
+Still a newbie
 ---
 
-### 🚀 About Me
-- 🎓 Studying Information Technology at **Đại học Công thương TP.HCM (HUIT)**.
+### 🚀 A little bit of fun of code 
 - 💻 Core Focus: **C# / Object-Oriented Programming**, **SQL Server / Relational Databases**.
 - 🛠️ Tools: Visual Studio 2022, VS Code, SSMS.
 - 🎯 Current Goals: Optimizing database performance and exploring software architecture.

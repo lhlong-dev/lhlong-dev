@@ -20,5 +20,5 @@ Still a newbie
 ---
 
 ### 📊 GitHub Stats
-![My Profile GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoanglong-dev&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoanglong-dev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglong-dev&layout=compact&theme=tokyonight)
